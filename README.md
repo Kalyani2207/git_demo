@@ -1,2 +1,2 @@
 # git_demo
-Demo repo
+Repository created for demo purpose
